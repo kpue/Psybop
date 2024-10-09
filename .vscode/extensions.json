@@ -3,5 +3,6 @@
         "charliermarsh.ruff",
         "mtxr.sqltools",
         "mtxr.sqltools-driver-pg",
+        "ms-azuretools.vscode-docker",
     ],
 }
