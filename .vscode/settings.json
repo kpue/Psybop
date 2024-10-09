@@ -1,0 +1,22 @@
+{
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit",
+            "source.organizeImports": "explicit",
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff",
+    },
+    // "sqltools.connections": [
+    //     {
+    //         "previewLimit": 50,
+    //         "server": "localhost",
+    //         "port": 5432,
+    //         "askForPassword": true,
+    //         "driver": "PostgreSQL",
+    //         "name": "pg-database",
+    //         "database": "postgres",
+    //         "username": "postgres"
+    //     }
+    // ]
+}
